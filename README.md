@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/0027-remove-element) |
 | [0566-reshape-the-matrix](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/0566-reshape-the-matrix) |
 | [0658-find-k-closest-elements](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/0658-find-k-closest-elements) |
+| [2616-maximal-score-after-applying-k-operations](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/2616-maximal-score-after-applying-k-operations) |
 ## Two Pointers
 |  |
 | ------- |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0658-find-k-closest-elements](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/0658-find-k-closest-elements) |
+| [2616-maximal-score-after-applying-k-operations](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/2616-maximal-score-after-applying-k-operations) |
 ## Matrix
 |  |
 | ------- |
@@ -59,4 +61,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0566-reshape-the-matrix](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/0566-reshape-the-matrix) |
+## Greedy
+|  |
+| ------- |
+| [2616-maximal-score-after-applying-k-operations](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/2616-maximal-score-after-applying-k-operations) |
 <!---LeetCode Topics End-->
