@@ -65,4 +65,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/2616-maximal-score-after-applying-k-operations) |
+## Stack
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/0094-binary-tree-inorder-traversal) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/0094-binary-tree-inorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
