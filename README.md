@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0525-contiguous-array](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/0525-contiguous-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/1468-check-if-n-and-its-double-exist) |
 ## String
 |  |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/0088-merge-sorted-array) |
+| [0525-contiguous-array](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/0525-contiguous-array) |
 | [0566-reshape-the-matrix](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/0566-reshape-the-matrix) |
 | [0658-find-k-closest-elements](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/0658-find-k-closest-elements) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -118,4 +120,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0404-sum-of-left-leaves](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/0404-sum-of-left-leaves) |
+## Prefix Sum
+|  |
+| ------- |
+| [0525-contiguous-array](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/0525-contiguous-array) |
 <!---LeetCode Topics End-->
