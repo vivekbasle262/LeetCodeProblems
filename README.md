@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0566-reshape-the-matrix](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/0566-reshape-the-matrix) |
 | [0658-find-k-closest-elements](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/0658-find-k-closest-elements) |
 | [0944-smallest-range-i](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/0944-smallest-range-i) |
+| [0958-sort-array-by-parity-ii](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/0958-sort-array-by-parity-ii) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/0088-merge-sorted-array) |
 | [0658-find-k-closest-elements](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/0658-find-k-closest-elements) |
+| [0958-sort-array-by-parity-ii](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/0958-sort-array-by-parity-ii) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1894-merge-strings-alternately](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/1894-merge-strings-alternately) |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/0088-merge-sorted-array) |
 | [0658-find-k-closest-elements](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/0658-find-k-closest-elements) |
+| [0958-sort-array-by-parity-ii](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/0958-sort-array-by-parity-ii) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/2497-maximum-matching-of-players-with-trainers) |
