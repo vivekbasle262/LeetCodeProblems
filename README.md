@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/0525-contiguous-array) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## String
 |  |
 | ------- |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1287-distance-between-bus-stops](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/1287-distance-between-bus-stops) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/2616-maximal-score-after-applying-k-operations) |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/0658-find-k-closest-elements) |
 | [0958-sort-array-by-parity-ii](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/0958-sort-array-by-parity-ii) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Heap (Priority Queue)
@@ -132,4 +135,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0525-contiguous-array](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/0525-contiguous-array) |
+## Counting
+|  |
+| ------- |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
