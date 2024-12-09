@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2616-maximal-score-after-applying-k-operations](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [3291-find-if-array-can-be-sorted](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/3291-find-if-array-can-be-sorted) |
+| [3427-special-array-ii](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/3427-special-array-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1468-check-if-n-and-its-double-exist](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [3427-special-array-ii](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/3427-special-array-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0525-contiguous-array](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/0525-contiguous-array) |
 | [1603-running-sum-of-1d-array](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/1603-running-sum-of-1d-array) |
+| [3427-special-array-ii](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/3427-special-array-ii) |
 ## Counting
 |  |
 | ------- |
