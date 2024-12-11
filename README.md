@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0944-smallest-range-i](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/0944-smallest-range-i) |
 | [0958-sort-array-by-parity-ii](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/0958-sort-array-by-parity-ii) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/1001-n-repeated-element-in-size-2n-array) |
+| [1185-find-in-mountain-array](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/1185-find-in-mountain-array) |
 | [1287-distance-between-bus-stops](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/1287-distance-between-bus-stops) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/0074-search-a-2d-matrix) |
 | [0540-single-element-in-a-sorted-array](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0658-find-k-closest-elements](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/0658-find-k-closest-elements) |
+| [1185-find-in-mountain-array](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/1185-find-in-mountain-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -201,4 +203,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/0014-longest-common-prefix) |
+## Interactive
+|  |
+| ------- |
+| [1185-find-in-mountain-array](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/1185-find-in-mountain-array) |
 <!---LeetCode Topics End-->
