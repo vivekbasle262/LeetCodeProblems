@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [2480-find-subarrays-with-equal-sum](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/2480-find-subarrays-with-equal-sum) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## String
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1603-running-sum-of-1d-array](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/1603-running-sum-of-1d-array) |
 | [1646-kth-missing-positive-number](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/1646-kth-missing-positive-number) |
+| [2480-find-subarrays-with-equal-sum](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/2480-find-subarrays-with-equal-sum) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
