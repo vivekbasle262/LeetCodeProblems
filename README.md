@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0237-delete-node-in-a-linked-list](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/0237-delete-node-in-a-linked-list) |
 | [0835-linked-list-components](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/0835-linked-list-components) |
 | [1765-merge-in-between-linked-lists](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/1765-merge-in-between-linked-lists) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1468-check-if-n-and-its-double-exist](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1894-merge-strings-alternately](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/1894-merge-strings-alternately) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [3195-separate-black-and-white-balls](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/3195-separate-black-and-white-balls) |
 ## Binary Search
