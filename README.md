@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/0049-group-anagrams) |
 | [0525-contiguous-array](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/0525-contiguous-array) |
+| [0560-subarray-sum-equals-k](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/0560-subarray-sum-equals-k) |
 | [0835-linked-list-components](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/0835-linked-list-components) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/0283-move-zeroes) |
 | [0525-contiguous-array](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/0525-contiguous-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/0540-single-element-in-a-sorted-array) |
+| [0560-subarray-sum-equals-k](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/0560-subarray-sum-equals-k) |
 | [0566-reshape-the-matrix](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/0566-reshape-the-matrix) |
 | [0658-find-k-closest-elements](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/0658-find-k-closest-elements) |
 | [0835-linked-list-components](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/0835-linked-list-components) |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0525-contiguous-array](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/0525-contiguous-array) |
+| [0560-subarray-sum-equals-k](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/0560-subarray-sum-equals-k) |
 | [1603-running-sum-of-1d-array](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/1603-running-sum-of-1d-array) |
 | [3427-special-array-ii](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/3427-special-array-ii) |
 ## Counting
