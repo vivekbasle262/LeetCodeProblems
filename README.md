@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/0027-remove-element) |
+| [0033-search-in-rotated-sorted-array](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0049-group-anagrams](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/0074-search-a-2d-matrix) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0069-sqrtx](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/0074-search-a-2d-matrix) |
 | [0540-single-element-in-a-sorted-array](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/0540-single-element-in-a-sorted-array) |
