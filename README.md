@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/0560-subarray-sum-equals-k) |
 | [0566-reshape-the-matrix](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/0566-reshape-the-matrix) |
 | [0658-find-k-closest-elements](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/0658-find-k-closest-elements) |
+| [0674-longest-continuous-increasing-subsequence](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0835-linked-list-components](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/0835-linked-list-components) |
 | [0944-smallest-range-i](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/0944-smallest-range-i) |
 | [0958-sort-array-by-parity-ii](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/0958-sort-array-by-parity-ii) |
