@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0217-contains-duplicate](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/0283-move-zeroes) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0525-contiguous-array](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/0525-contiguous-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/0560-subarray-sum-equals-k) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0069-sqrtx](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/0074-search-a-2d-matrix) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0540-single-element-in-a-sorted-array](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0658-find-k-closest-elements](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/0658-find-k-closest-elements) |
 | [1185-find-in-mountain-array](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/1185-find-in-mountain-array) |
@@ -247,4 +249,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/0053-maximum-subarray) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Segment Tree
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Merge Sort
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Ordered Set
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/0315-count-of-smaller-numbers-after-self) |
 <!---LeetCode Topics End-->
