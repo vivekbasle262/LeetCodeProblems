@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/0067-add-binary) |
+| [1026-string-without-aaa-or-bbb](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/1026-string-without-aaa-or-bbb) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1894-merge-strings-alternately](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/1894-merge-strings-alternately) |
 | [2077-largest-number-after-mutating-substring](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/2077-largest-number-after-mutating-substring) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [1026-string-without-aaa-or-bbb](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/1026-string-without-aaa-or-bbb) |
 | [2077-largest-number-after-mutating-substring](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/2077-largest-number-after-mutating-substring) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/2616-maximal-score-after-applying-k-operations) |
