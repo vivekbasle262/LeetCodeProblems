@@ -10,12 +10,14 @@ class Solution {
             sumTotal+=nums[i];
         }
 
-        // Check valid splits condition
-        for(int i=0; i<n-1; i++){
+        for(int i=0;i<n-1;i++)
+        {
             sumCurr+=nums[i];
-            if(sumCurr >= sumTotal-sumCurr){
+            if(sumCurr>=sumTotal-sumCurr)
+            {
                 cnt++;
             }
+
         }
 
         return cnt;
