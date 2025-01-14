@@ -1,6 +1,6 @@
 class Solution {
     public int lengthOfLongestSubstring(String s) {
-        int n=s.length();
+      int n=s.length();
      int i=0;
      int res=0;
      
@@ -16,4 +16,4 @@ class Solution {
      }
      return res;
     }
-}
+    }
