@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/0067-add-binary) |
+| [0434-number-of-segments-in-a-string](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/0434-number-of-segments-in-a-string) |
 | [0952-word-subsets](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/0952-word-subsets) |
 | [1026-string-without-aaa-or-bbb](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/1026-string-without-aaa-or-bbb) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
