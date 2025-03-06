@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2480-find-subarrays-with-equal-sum](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/2480-find-subarrays-with-equal-sum) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2551-apply-operations-to-an-array](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/2551-apply-operations-to-an-array) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [3227-find-missing-and-repeated-values](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/3227-find-missing-and-repeated-values) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1894-merge-strings-alternately](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/1894-merge-strings-alternately) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2551-apply-operations-to-an-array](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/2551-apply-operations-to-an-array) |
 | [3195-separate-black-and-white-balls](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/3195-separate-black-and-white-balls) |
 ## Binary Search
 |  |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/0067-add-binary) |
 | [0566-reshape-the-matrix](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/0566-reshape-the-matrix) |
+| [2551-apply-operations-to-an-array](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/2551-apply-operations-to-an-array) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Greedy
 |  |
