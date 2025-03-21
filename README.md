@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1026-string-without-aaa-or-bbb](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/1026-string-without-aaa-or-bbb) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1894-merge-strings-alternately](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/1894-merge-strings-alternately) |
 | [2077-largest-number-after-mutating-substring](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/2077-largest-number-after-mutating-substring) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/0658-find-k-closest-elements) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
