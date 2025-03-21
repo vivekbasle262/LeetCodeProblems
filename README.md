@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0643-maximum-average-subarray-i](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/0658-find-k-closest-elements) |
+| [1046-max-consecutive-ones-iii](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/1046-max-consecutive-ones-iii) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/2394-count-subarrays-with-score-less-than-k) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0952-word-subsets](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/0952-word-subsets) |
 | [0958-sort-array-by-parity-ii](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/0958-sort-array-by-parity-ii) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/1001-n-repeated-element-in-size-2n-array) |
+| [1046-max-consecutive-ones-iii](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/1046-max-consecutive-ones-iii) |
 | [1063-best-sightseeing-pair](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/1063-best-sightseeing-pair) |
 | [1185-find-in-mountain-array](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/1185-find-in-mountain-array) |
 | [1287-distance-between-bus-stops](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/1287-distance-between-bus-stops) |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0315-count-of-smaller-numbers-after-self](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0540-single-element-in-a-sorted-array](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0658-find-k-closest-elements](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/0658-find-k-closest-elements) |
+| [1046-max-consecutive-ones-iii](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/1046-max-consecutive-ones-iii) |
 | [1185-find-in-mountain-array](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/1185-find-in-mountain-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/1486-find-the-distance-value-between-two-arrays) |
@@ -278,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/0238-product-of-array-except-self) |
 | [0525-contiguous-array](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/0560-subarray-sum-equals-k) |
+| [1046-max-consecutive-ones-iii](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/1046-max-consecutive-ones-iii) |
 | [1603-running-sum-of-1d-array](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/1603-running-sum-of-1d-array) |
 | [2358-number-of-ways-to-split-array](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/2358-number-of-ways-to-split-array) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/2394-count-subarrays-with-score-less-than-k) |
