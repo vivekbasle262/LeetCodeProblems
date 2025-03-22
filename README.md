@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/1046-max-consecutive-ones-iii) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1603-running-sum-of-1d-array](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/1603-running-sum-of-1d-array) |
 | [1646-kth-missing-positive-number](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/1646-kth-missing-positive-number) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -321,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [1063-best-sightseeing-pair](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/1063-best-sightseeing-pair) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## String Matching
 |  |
 | ------- |
