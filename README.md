@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0835-linked-list-components](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/0835-linked-list-components) |
 | [0952-word-subsets](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/0952-word-subsets) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/1001-n-repeated-element-in-size-2n-array) |
+| [1392-find-the-difference-of-two-arrays](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1063-best-sightseeing-pair](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/1063-best-sightseeing-pair) |
 | [1185-find-in-mountain-array](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/1185-find-in-mountain-array) |
 | [1287-distance-between-bus-stops](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/1287-distance-between-bus-stops) |
+| [1392-find-the-difference-of-two-arrays](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
