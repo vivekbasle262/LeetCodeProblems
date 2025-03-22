@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+| [2428-equal-row-and-column-pairs](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/2428-equal-row-and-column-pairs) |
 | [2480-find-subarrays-with-equal-sum](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/2480-find-subarrays-with-equal-sum) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2265-partition-array-according-to-given-pivot](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2358-number-of-ways-to-split-array](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/2358-number-of-ways-to-split-array) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [2428-equal-row-and-column-pairs](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/2428-equal-row-and-column-pairs) |
 | [2480-find-subarrays-with-equal-sum](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/2480-find-subarrays-with-equal-sum) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2551-apply-operations-to-an-array](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/2551-apply-operations-to-an-array) |
@@ -230,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/0074-search-a-2d-matrix) |
 | [0566-reshape-the-matrix](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/0566-reshape-the-matrix) |
+| [2428-equal-row-and-column-pairs](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/2428-equal-row-and-column-pairs) |
 | [3227-find-missing-and-repeated-values](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/3227-find-missing-and-repeated-values) |
 ## Simulation
 |  |
@@ -238,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/0067-add-binary) |
 | [0566-reshape-the-matrix](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/0566-reshape-the-matrix) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2428-equal-row-and-column-pairs](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/2428-equal-row-and-column-pairs) |
 | [2551-apply-operations-to-an-array](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/2551-apply-operations-to-an-array) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Greedy
