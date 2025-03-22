@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2077-largest-number-after-mutating-substring](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/2077-largest-number-after-mutating-substring) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [2470-removing-stars-from-a-string](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/2470-removing-stars-from-a-string) |
 | [2723-find-the-longest-balanced-substring-of-a-binary-string](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/2723-find-the-longest-balanced-substring-of-a-binary-string) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3195-separate-black-and-white-balls](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/3195-separate-black-and-white-balls) |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0566-reshape-the-matrix](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/0566-reshape-the-matrix) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2428-equal-row-and-column-pairs](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/2428-equal-row-and-column-pairs) |
+| [2470-removing-stars-from-a-string](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/2470-removing-stars-from-a-string) |
 | [2551-apply-operations-to-an-array](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/2551-apply-operations-to-an-array) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Greedy
@@ -265,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/0094-binary-tree-inorder-traversal) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
+| [2470-removing-stars-from-a-string](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/2470-removing-stars-from-a-string) |
 ## Tree
 |  |
 | ------- |
