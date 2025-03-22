@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1777-determine-if-two-strings-are-close](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2428-equal-row-and-column-pairs](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/2428-equal-row-and-column-pairs) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1777-determine-if-two-strings-are-close](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/1777-determine-if-two-strings-are-close) |
 | [1894-merge-strings-alternately](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/1894-merge-strings-alternately) |
 | [2077-largest-number-after-mutating-substring](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/2077-largest-number-after-mutating-substring) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
+| [1777-determine-if-two-strings-are-close](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -295,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1777-determine-if-two-strings-are-close](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/1777-determine-if-two-strings-are-close) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## Bit Manipulation
