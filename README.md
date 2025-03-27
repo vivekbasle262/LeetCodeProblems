@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/0283-move-zeroes) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0435-non-overlapping-intervals](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/0435-non-overlapping-intervals) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0525-contiguous-array](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/0525-contiguous-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/0560-subarray-sum-equals-k) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/0217-contains-duplicate) |
 | [0435-non-overlapping-intervals](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/0435-non-overlapping-intervals) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0658-find-k-closest-elements](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/0658-find-k-closest-elements) |
 | [0958-sort-array-by-parity-ii](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/0958-sort-array-by-parity-ii) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -274,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0435-non-overlapping-intervals](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/0435-non-overlapping-intervals) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [1026-string-without-aaa-or-bbb](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/1026-string-without-aaa-or-bbb) |
 | [2077-largest-number-after-mutating-substring](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/2077-largest-number-after-mutating-substring) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/2497-maximum-matching-of-players-with-trainers) |
