@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2480-find-subarrays-with-equal-sum](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/2480-find-subarrays-with-equal-sum) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [2888-minimum-index-of-a-valid-split](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3227-find-missing-and-repeated-values](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/3227-find-missing-and-repeated-values) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## String
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2665-minimum-time-to-repair-cars](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/2665-minimum-time-to-repair-cars) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [2888-minimum-index-of-a-valid-split](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3227-find-missing-and-repeated-values](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/3227-find-missing-and-repeated-values) |
 | [3291-find-if-array-can-be-sorted](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/3291-find-if-array-can-be-sorted) |
 | [3427-special-array-ii](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/3427-special-array-ii) |
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2888-minimum-index-of-a-valid-split](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3291-find-if-array-can-be-sorted](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/3291-find-if-array-can-be-sorted) |
 ## Heap (Priority Queue)
 |  |
