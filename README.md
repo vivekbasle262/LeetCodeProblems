@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/0069-sqrtx) |
 | [0944-smallest-range-i](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/0944-smallest-range-i) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [1585-the-kth-factor-of-n](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/1585-the-kth-factor-of-n) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2610-closest-prime-numbers-in-range](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/2610-closest-prime-numbers-in-range) |
@@ -391,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [1585-the-kth-factor-of-n](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/1585-the-kth-factor-of-n) |
 | [2610-closest-prime-numbers-in-range](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/2610-closest-prime-numbers-in-range) |
 ## Queue
 |  |
