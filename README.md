@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2723-find-the-longest-balanced-substring-of-a-binary-string](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/2723-find-the-longest-balanced-substring-of-a-binary-string) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3195-separate-black-and-white-balls](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/3195-separate-black-and-white-balls) |
+| [3230-remove-adjacent-almost-equal-characters](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/3230-remove-adjacent-almost-equal-characters) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3451-string-compression-iii](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/3451-string-compression-iii) |
 ## Sliding Window
@@ -296,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2616-maximal-score-after-applying-k-operations](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [3195-separate-black-and-white-balls](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/3195-separate-black-and-white-balls) |
+| [3230-remove-adjacent-almost-equal-characters](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/3230-remove-adjacent-almost-equal-characters) |
 ## Stack
 |  |
 | ------- |
@@ -358,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/0435-non-overlapping-intervals) |
 | [1063-best-sightseeing-pair](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/1063-best-sightseeing-pair) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [3230-remove-adjacent-almost-equal-characters](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/3230-remove-adjacent-almost-equal-characters) |
 ## String Matching
 |  |
 | ------- |
