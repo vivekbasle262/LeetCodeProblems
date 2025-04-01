@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2888-minimum-index-of-a-valid-split](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3227-find-missing-and-repeated-values](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/3227-find-missing-and-repeated-values) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## String
 |  |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2888-minimum-index-of-a-valid-split](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3227-find-missing-and-repeated-values](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/3227-find-missing-and-repeated-values) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3291-find-if-array-can-be-sorted](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/3291-find-if-array-can-be-sorted) |
 | [3427-special-array-ii](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/3427-special-array-ii) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -344,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1777-determine-if-two-strings-are-close](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/1777-determine-if-two-strings-are-close) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## Bit Manipulation
 |  |
