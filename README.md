@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3242-count-elements-with-maximum-frequency](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3291-find-if-array-can-be-sorted](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/3291-find-if-array-can-be-sorted) |
 | [3308-apply-operations-to-make-string-empty](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/3308-apply-operations-to-make-string-empty) |
+| [3320-maximum-number-of-operations-with-the-same-score-i](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/3320-maximum-number-of-operations-with-the-same-score-i) |
 | [3427-special-array-ii](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/3427-special-array-ii) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -289,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2428-equal-row-and-column-pairs](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/2428-equal-row-and-column-pairs) |
 | [2470-removing-stars-from-a-string](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/2470-removing-stars-from-a-string) |
 | [2551-apply-operations-to-an-array](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/2551-apply-operations-to-an-array) |
+| [3320-maximum-number-of-operations-with-the-same-score-i](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/3320-maximum-number-of-operations-with-the-same-score-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Greedy
 |  |
