@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1603-running-sum-of-1d-array](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/1603-running-sum-of-1d-array) |
 | [1646-kth-missing-positive-number](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/1646-kth-missing-positive-number) |
+| [1704-special-positions-in-a-binary-matrix](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/1704-special-positions-in-a-binary-matrix) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/1833-find-the-highest-altitude) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/0074-search-a-2d-matrix) |
 | [0566-reshape-the-matrix](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/0566-reshape-the-matrix) |
+| [1704-special-positions-in-a-binary-matrix](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/1704-special-positions-in-a-binary-matrix) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2428-equal-row-and-column-pairs](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/2428-equal-row-and-column-pairs) |
 | [3227-find-missing-and-repeated-values](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/3227-find-missing-and-repeated-values) |
