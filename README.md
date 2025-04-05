@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1585-the-kth-factor-of-n](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/1585-the-kth-factor-of-n) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2610-closest-prime-numbers-in-range](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/2649-count-total-number-of-colored-cells) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1646-kth-missing-positive-number](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/1646-kth-missing-positive-number) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/1833-find-the-highest-altitude) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2048-build-array-from-permutation](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/2048-build-array-from-permutation) |
 | [2077-largest-number-after-mutating-substring](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/2077-largest-number-after-mutating-substring) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -360,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/0067-add-binary) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [3291-find-if-array-can-be-sorted](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/3291-find-if-array-can-be-sorted) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Dynamic Programming
@@ -422,4 +425,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+## Backtracking
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/1993-sum-of-all-subset-xor-totals) |
+## Combinatorics
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/1993-sum-of-all-subset-xor-totals) |
+## Enumeration
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/1993-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
