@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2428-equal-row-and-column-pairs](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/2428-equal-row-and-column-pairs) |
 | [2480-find-subarrays-with-equal-sum](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/2480-find-subarrays-with-equal-sum) |
+| [2532-remove-letter-to-equalize-frequency](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/2532-remove-letter-to-equalize-frequency) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/2888-minimum-index-of-a-valid-split) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2470-removing-stars-from-a-string](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/2470-removing-stars-from-a-string) |
+| [2532-remove-letter-to-equalize-frequency](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/2532-remove-letter-to-equalize-frequency) |
 | [2723-find-the-longest-balanced-substring-of-a-binary-string](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/2723-find-the-longest-balanced-substring-of-a-binary-string) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3195-separate-black-and-white-balls](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/3195-separate-black-and-white-balls) |
@@ -356,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1777-determine-if-two-strings-are-close](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/1777-determine-if-two-strings-are-close) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/1890-sum-of-beauty-of-all-substrings) |
+| [2532-remove-letter-to-equalize-frequency](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/2532-remove-letter-to-equalize-frequency) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
