@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1585-the-kth-factor-of-n](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/1585-the-kth-factor-of-n) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2083-three-divisors](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/2083-three-divisors) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2610-closest-prime-numbers-in-range](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/2649-count-total-number-of-colored-cells) |
@@ -420,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1585-the-kth-factor-of-n](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/1585-the-kth-factor-of-n) |
+| [2083-three-divisors](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/2083-three-divisors) |
 | [2610-closest-prime-numbers-in-range](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/2610-closest-prime-numbers-in-range) |
 ## Queue
 |  |
@@ -445,4 +447,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2083-three-divisors](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/2083-three-divisors) |
 <!---LeetCode Topics End-->
