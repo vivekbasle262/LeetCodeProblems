@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1500-count-largest-group](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/1500-count-largest-group) |
 | [1694-make-sum-divisible-by-p](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/1694-make-sum-divisible-by-p) |
 | [1777-determine-if-two-strings-are-close](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/0069-sqrtx) |
 | [0944-smallest-range-i](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/0944-smallest-range-i) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [1500-count-largest-group](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/1500-count-largest-group) |
 | [1585-the-kth-factor-of-n](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/1585-the-kth-factor-of-n) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/1993-sum-of-all-subset-xor-totals) |
