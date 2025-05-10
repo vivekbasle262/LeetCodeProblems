@@ -194,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2888-minimum-index-of-a-valid-split](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
+| [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3227-find-missing-and-repeated-values](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/3227-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -320,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3195-separate-black-and-white-balls](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/3195-separate-black-and-white-balls) |
 | [3230-remove-adjacent-almost-equal-characters](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/3230-remove-adjacent-almost-equal-characters) |
 ## Stack
