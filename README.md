@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/0007-reverse-integer) |
+| [0009-palindrome-number](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/vivekbasle262/LeetCodeProblems/tree/master/0069-sqrtx) |
